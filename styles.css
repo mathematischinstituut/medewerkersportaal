@@ -278,3 +278,10 @@ a.shadow-material {
     border: 0;
     border-bottom: 4px solid #6d7b7c;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
